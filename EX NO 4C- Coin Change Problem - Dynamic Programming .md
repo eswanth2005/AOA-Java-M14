@@ -23,10 +23,6 @@ You may assume that you have an infinite number of each kind of coin.
 
 
 ## Program:
-```
-Developed by: RAJA GOPAL V
-Register Number:  212223240134
-```
 
 ```
 import java.util.*;
